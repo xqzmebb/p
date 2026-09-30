@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml"
 
-#EXTINF:-1 tvg-id="belarus1",Беларусь 1 HD
+#EXTINF:-1 tvg-id="belarus1" group-title="",Беларусь 1 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="belarus2" group-title="",Беларусь 2 HD
@@ -8,6 +8,9 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="belarus3" group-title="",Беларусь 3 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="belarus4-vitebsk" group-title="",Беларусь 4 Витебск
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4VIT_HLS/variant.m3u8
 
 #EXTINF:-1 tvg-id="belarus5" group-title="", Беларусь 5 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI0IDEwOjA0OjA4IEFNJmhhc2hfdmFsdWU9SDJKZTBvbkthK0M0RG14b3JWdkNzZz09JnZhbGlkbWludXRlcz0xMjA%3D

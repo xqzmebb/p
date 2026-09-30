@@ -1,0 +1,84 @@
+#EXTM3U url-tvg="http://epg.one/epg2.xml"
+
+#EXTINF:-1 tvg-id="belarus1" group-title="Социальные",Беларусь 1 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="belarus2" group-title="Социальные",Беларусь 2 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="belarus3" group-title="Социальные",Беларусь 3 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="stv-by" group-title="Социальные", СТВ Беларусь
+https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
+
+## Мир HD Общерос
+
+#EXTINF:-1 tvg-id="mir" group-title="🌌 Общероссийские 🌌" -logo="https://epg.iptvx.one/picons/mir.png", Мир HD
+https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=mDyveoQbng2S0kuPX84FbQ&e=2066519809&scheme=https
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Мир" -logo="https://i.ibb.co/6Jy5f9Y/resize-9.png" group-title="🌌 Общероссийские 🌌", Мир
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+
+#EXTINF:0 tvg-rec="0",Belarus 24 HD
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/19079/index.m3u8
+#EXTINF:0 tvg-rec="0",Беларусь 24 HD
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/14011/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 24
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/1061/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 1
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2170/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 2
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2173/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 3
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2174/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 1 HD
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2178/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 2 HD
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2179/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 3 HD
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2180/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 5 HD BY
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2177/index.m3u8
+#EXTINF:0 tvg-rec="3",СТВ
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2172/index.m3u8
+#EXTINF:0 tvg-rec="3",СТВ HD
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2184/index.m3u8
+#EXTINF:0 tvg-rec="3",ОНТ
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2171/index.m3u8
+#EXTINF:0 tvg-rec="3",ОНТ HD
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2182/index.m3u8
+#EXTINF:0 tvg-rec="3",Cinema Космос ТВ HD BY
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2185/index.m3u8
+#EXTINF:0 tvg-rec="3",8 Канал HD
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2186/index.m3u8
+#EXTINF:0 tvg-rec="3",Беларусь 5 BY
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/5060/index.m3u8
+#EXTINF:0 tvg-rec="3",ОНТ BY
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/5061/index.m3u8
+#EXTINF:0 tvg-rec="3",БелРос BY
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/5062/index.m3u8
+#EXTINF:0 tvg-rec="0",Яснае ТВ HD
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/10035/index.m3u8
+#EXTINF:0 tvg-rec="0",Белсат HD
+#EXTGRP:Беларусь | Беларускія
+http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/10036/index.m3u8

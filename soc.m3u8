@@ -33,6 +33,4 @@ http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 #EXTINF:-1 tvg-id="ntv-belarus",НТВ-Беларусь 
 https://mfe.svc.ott.zala.by/hls/DYJ5GH8HOK_HLS/variant.m3u8
 
-#EXTINF:0 tvg-rec="0",СпортТВ
-http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/10036/index.m3u8
 

@@ -24,6 +24,9 @@ http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2182/index.m3u8
 #EXTINF:0 tvg-rec="3",8 Канал HD
 http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2186/index.m3u8
 
+#EXTINF:-1 tvg-id="mir" group-title="", Мир HD
+https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=mDyveoQbng2S0kuPX84FbQ&e=2066519809&scheme=https
+
 #EXTINF:0 tvg-rec="3",БелРос BY
 http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/5062/index.m3u8
 

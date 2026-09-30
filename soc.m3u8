@@ -15,9 +15,6 @@ https://mfe.svc.ott.zala.by/hls/CH_BELARUS4VIT_HLS/variant.m3u8
 #EXTINF:-1 tvg-id="belarus5" group-title="", Беларусь 5 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI0IDEwOjA0OjA4IEFNJmhhc2hfdmFsdWU9SDJKZTBvbkthK0M0RG14b3JWdkNzZz09JnZhbGlkbWludXRlcz0xMjA%3D
 
-#EXTINF:-1 tvg-id="stv-by" group-title="", СТВ Беларусь
-https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
-
 #EXTINF:0 tvg-rec="3",СТВ HD
 http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2184/index.m3u8
 

@@ -24,11 +24,15 @@ http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2182/index.m3u8
 #EXTINF:0 tvg-rec="3",8 Канал HD
 http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2186/index.m3u8
 
-#EXTINF:-1 tvg-id="mir" group-title="", Мир HD
+#EXTINF:-1 tvg-id="mir" group-title="",Мир HD
 https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=mDyveoQbng2S0kuPX84FbQ&e=2066519809&scheme=https
 
-#EXTINF:0 tvg-rec="3",БелРос BY
-http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/5062/index.m3u8
+#EXTINF:-1 tvg-id="pervy-info-by",Первый информационный HD
+http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 
-#EXTINF:0 tvg-rec="0",Белсат HD
+#EXTINF:-1 tvg-id="ntv-belarus",НТВ-Беларусь 
+https://mfe.svc.ott.zala.by/hls/DYJ5GH8HOK_HLS/variant.m3u8
+
+#EXTINF:0 tvg-rec="0",СпортТВ
 http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/10036/index.m3u8
+

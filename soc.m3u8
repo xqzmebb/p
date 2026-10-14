@@ -33,4 +33,8 @@ http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 #EXTINF:-1 tvg-id="ntv-belarus",НТВ-Беларусь 
 https://mfe.svc.ott.zala.by/hls/DYJ5GH8HOK_HLS/variant.m3u8
 
+#EXTINF:-1 tvg-id="rtr-belarus",РТР-Беларусь 
+http://178.124.183.150/hls/7MQSYYGHFE_HLS/bw1200000/playlist.m3u8
+
+
 

@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.one/epg2.xml"
+#EXTM3U url-tvg="ttp://epg.it999.ru/epg2.xml.gz"
 
 #EXTINF:-1 tvg-id="belarus1" tvg-name="Беларусь 1 HD", Беларусь 1 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8

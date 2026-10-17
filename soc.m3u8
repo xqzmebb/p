@@ -15,19 +15,19 @@ https://mfe.svc.ott.zala.by/hls/CH_BELARUS4VIT_HLS/variant.m3u8
 #EXTINF:-1 tvg-id="belarus5" group-title="", Беларусь 5 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI0IDEwOjA0OjA4IEFNJmhhc2hfdmFsdWU9SDJKZTBvbkthK0M0RG14b3JWdkNzZz09JnZhbGlkbWludXRlcz0xMjA%3D
 
-#EXTINF:0 tvg-rec="3",СТВ HD
+#EXTINF:-1 tvg-id="stv" tvg-rec="3",СТВ HD
 http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2184/index.m3u8
 
-#EXTINF:0 tvg-rec="3",ОНТ HD
+#EXTINF:-1 tvg-id="ont" tvg-rec="3",ОНТ HD
 http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2182/index.m3u8
 
-#EXTINF:0 tvg-rec="3",8 Канал HD
+#EXTINF:-1 tvg-id="8-kanal-by" tvg-rec="3",8 Канал HD
 http://9a649a6c.tvclub.xyz/iptv/ZUVH7B2Z54UQ3H/2186/index.m3u8
 
 #EXTINF:-1 tvg-id="mir" group-title="",Мир HD
 https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=mDyveoQbng2S0kuPX84FbQ&e=2066519809&scheme=https
 
-#EXTINF:-1 tvg-id="pervy-info-by",Первый информационный HD
+#EXTINF:-1 tvg-id="pervy-informatsionny-by",Первый информационный HD
 http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 
 #EXTINF:-1 tvg-id="ntv-belarus",НТВ-Беларусь 
